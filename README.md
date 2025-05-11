@@ -13,12 +13,15 @@ Ce jeu est développé dans le cadre du concours [Games On Web 2025](https://www
 
 Consulter notre [repo Github](https://github.com/BarbaTeam/Haunted-Dreams).
 
+## Activer le jeu sur votre compte Itch.io
+Le jeu est encore en développement, il n'est pas mis en publique sur la plateforme d'hébergement itch.io, il vous faudra une clef d'accès et un compte itch.io pour y jouer. Les clefs se trouvent en grande quantité dans le document texte "jury-keys" à la racine du projet. Testez les clefs jusqu'à que ça fonctionne (il y en a 100 de disponibles).
+Saisir la clef sur le navigateur vous emmènera sur une page de connexion, connectez vous ou créez vous un compte. Le jeu n'est pas téléchargeable, il est joué directement dans le navigateur. Donc ajoutez le à votre collection en cliquant sur le bouton correspondant.
+
+Finalement, nous vous recommandons de mettre le jeu en plein écran avant de cliquer sur "jouer" grâce à l'icone en bas à droite. N'hésitez pas à changer les quelques paramètres disponibles et prenez un casque ! 
+
 ## Remarques et recommandations
 Nous avons remarqué une assez mauvaise performance sur le navigateur firefox. Nous vous recommandons d'utiliser un navigateur tel que chrome, ou brave. 
 
-De plus, puisque le jeu est encore en développement, il n'est pas mis en publique sur la plateforme d'hébergement itch.io, il vous faudra une clef d'accès et un compte itch.io pour y jouer. Les clefs se trouvent en quantité dans le document texte "jury-keys" à la racine du projet. Testez les clefs jusqu'à que ça fonctionne (il y en a 100 de disponibles)
-
-De plus, nous vous recommandons de mettre le jeu en plein écran avant de cliquer sur "jouer". 
 Itch.io nous donne une limite de taille pour notre jeu, ce qui nous a poussé à retirer la version anglaise qu'on avait implémenté.
 
 ## Documentation
