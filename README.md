@@ -1,5 +1,5 @@
 # haunteddreams-gameonweb-contest-24-25
-![alt text](public/images/HauntedDreamsV2.png)
+![alt text](HauntedDreamsV2.png)
 
 HauntedDream est un jeu d'enquête angoissant et immersif, où vous incarnez un condamné à mort recruté par le mystérieux psychiatre Dunwich. Votre mission : explorer l’esprit brisé d’une patiente internée pour percer le secret qui la hante.
 
