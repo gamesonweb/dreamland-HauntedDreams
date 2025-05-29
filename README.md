@@ -29,3 +29,4 @@ Itch.io nous donne une limite de taille pour notre jeu, ce qui nous a poussé à
 - [📚 Explication du lore](LORE.md)
 - [💡 Solution des énigmes](SOLU.md)
 - [🔧 Installation](INSTAL.md)
+- [📷 Photos](PHOTOS.md)
