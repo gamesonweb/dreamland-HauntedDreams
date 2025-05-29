@@ -34,5 +34,4 @@ Itch.io nous donne une limite de taille pour notre jeu, ce qui nous a poussé à
 - [💡 Solution des énigmes](SOLU.md)
 - [🔧 Installation](INSTAL.md)
 - [📷 Photos](PHOTOS.md)
-- [🎥 Bêtisier]()
 - [🎵 Bande originale](https://soundcloud.com/majurax/haunted_dreams_main_theme)
