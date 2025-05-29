@@ -1,2 +1,2 @@
-![alt text](/JOUER/1.png)
-![alt text](/JOUER/2.png)
+![alt text](/JOUER/1_.png)
+![alt text](/JOUER/2_.png)
