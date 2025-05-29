@@ -11,6 +11,8 @@ Obéissez aux exigences du docteur, extirpez-lui les informations qu’il cherch
 
 [Voir la vidéo du gameplay](https://youtu.be/XcnTnza_S-c)
 
+[Voir la vidéo de présentation]()
+
 Ce jeu est développé dans le cadre du concours [Games On Web 2025](https://www.cgi.com/france/fr-fr/event/games-on-web-2025) organisé par [CGI France](https://www.cgi.com/france/fr-fr). 
 
 Consulter notre [repo Github](https://github.com/BarbaTeam/Haunted-Dreams).
@@ -34,3 +36,4 @@ Itch.io nous donne une limite de taille pour notre jeu, ce qui nous a poussé à
 - [💡 Solution des énigmes](SOLU.md)
 - [🔧 Installation](INSTAL.md)
 - [📷 Photos](PHOTOS.md)
+- [🎥 Bêtisier]()
