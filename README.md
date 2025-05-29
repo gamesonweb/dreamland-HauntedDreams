@@ -13,6 +13,8 @@ Ce jeu est développé dans le cadre du concours [Games On Web 2025](https://www
 
 Consulter notre [repo Github](https://github.com/BarbaTeam/Haunted-Dreams).
 
+Écouter la [bande originale du jeu](https://soundcloud.com/majurax/haunted_dreams_main_theme) écrite et composée par Mathias Hellal.
+
 ## Comment jouer
 Le jeu est encore en développement, et est disponible sur la plateforme [itch.io](https://deyann.itch.io/haunteddreams) (cliquez sur le lien pour jouer)
 
